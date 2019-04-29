@@ -1,3 +1,5 @@
-fun main() {
-    println("Hello Devmasters")
-}
+ fun main(args:Array<String>){
+     println("Hello  ${args[0]}")
+
+
+ }
